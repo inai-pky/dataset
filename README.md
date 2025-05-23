@@ -3,3 +3,7 @@
 
 수집 가능한 데이터셋 사이트 모음
 https://kr.appen.com/blog/best-datasets
+
+
+주피터 랩에서 압축파일 풀기
+unzip -uq "압축을 풀 파일" -d "압축 푼 걸 집어 넣을 경로"
